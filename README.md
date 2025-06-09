@@ -1,6 +1,6 @@
 # Proximity Alarm System  
-**Author:** Abdalrahman Zbeidi and Waleed Adas
-**Course:** ECE 266 – Intro to Embedded Systems 
+**Author:** Abdalrahman Zbeidi and Waleed Adas    
+**Course:** ECE 266 – Intro to Embedded Systems       
 **Semester:** Spring 2025  
 
 # Proximity Alarm System
